@@ -4,7 +4,6 @@
 
 ## 中文版  
 ```  
-
 YumeYuka Starry Oath
 
 版权所有 (c) 2025 YumeYuka
@@ -25,22 +24,20 @@ YumeYuka Starry Oath
 
 ## English Version  
 ```  
-
-
 YumeYuka Starry Oath
 
 Copyright (c) 2025 YumeYuka
 
-Permission is hereby granted to any person to freely copy, distribute, modify, incorporate, sell, publish, sublicense, or otherwise use this work, provided the following conditions are met:
+Permission is hereby granted to anyone to freely copy, distribute, modify, merge, sell, publish, sublicense, or otherwise use this work, subject to the following conditions:
 
-1. all copies or significant portions of this work must contain the name ‘YumeYuka’ as the original author. 2. all risks of use of this work will be borne by you.
-2. All use of this work is at the user's sole risk and responsibility.
+1.  All copies or substantial portions of this work must include the name "YumeYuka" as the original author.
+2.  All risks and liabilities arising from the use of this work shall be borne solely by the user.
 
-The author, YumeYuka, provides this work ‘as is’ without warranty of any kind, either express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement. This work may function or fail completely, there is no intermediate state.
+The author YumeYuka provides this work "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. This work may function, or it may fail completely; no intermediate state exists.
 
             Terms and Conditions
 
-0. The author assumes no responsibility for any claims, damages, or problems arising from the use of this work, whether in contract, tort, or otherwise.
+0.  The author shall not be liable for any claim, damages, or other liability arising from the use of this work, whether in an action of contract, tort, or otherwise.
 
-Under the Stars, Freedom to You
+Beneath the starry sky, freedom is yours.
 ```
